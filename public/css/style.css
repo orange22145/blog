@@ -1,0 +1,41 @@
+body {
+  background-color: #f5f5f5; 
+}
+#main {
+width:73%;
+float:left;
+padding:1%;
+}
+#sidebar {
+width:23%;
+float:right;
+padding:1%;
+}
+
+
+
+#comment{
+    border: 2px dotted black;
+padding: 10px;
+  background-color:#F8F8FF;
+  
+    border-radius: 8px; 
+}
+
+#table{
+    border: 2px solid #2f5fff;
+padding: 20px;
+  background-color:#F8F8FF;
+    box-sizing: border-box;
+
+    border-radius: 8px; 
+}
+
+#latest-posts-heading {
+    background-color: #007BFF; 
+    color: white;
+    padding: 4px;
+    border-radius: 5px; 
+}
+
+
